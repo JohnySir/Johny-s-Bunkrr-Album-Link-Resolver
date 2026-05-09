@@ -8,8 +8,7 @@ Inspired by the resolution mechanisms of [bonkrr](https://github.com/najahiiii/b
 
 ## 📸 Preview
 
-![Application Demo Placeholder](https://via.placeholder.com/800x450.png?text=Johny's+Bunkrr+Resolver+Pro+Demo+GIF+Placeholder)
-*A sleek, neon-themed dashboard for all your link resolution needs.*
+![SS](https://raw.githubusercontent.com/JohnySir/Johny-s-Bunkrr-Album-Link-Resolver/refs/heads/main/assets/SS.png "SS")
 
 ---
 
@@ -25,12 +24,12 @@ Inspired by the resolution mechanisms of [bonkrr](https://github.com/najahiiii/b
 
 ---
 
-## 🛠️ Noob-Friendly Installation Guide
+## 🛠️ Installation Guide
 
 Follow these steps to get the tool running on your Windows machine in less than 2 minutes!
 
 ### 1. Clone or Download
-Download the source code to your computer and open a terminal (PowerShell or CMD) in that folder.
+Download the code to your computer and open a terminal (PowerShell or CMD) in that folder.
 
 ### 2. Set Up a Virtual Environment (Recommended)
 This keeps the tool's requirements separate from your system's Python.
@@ -74,10 +73,6 @@ pip install -r resolver_tool/requirements.txt
 - **`CTRL + L`**: Clear the logs.
 
 ---
-
-## ⚖️ Disclaimer & License
-
-This tool is intended for resolving links from publicly accessible sources that you are authorized to use. Please respect the terms of service of the content providers.
 
 Licensed under the MIT License. 
 
